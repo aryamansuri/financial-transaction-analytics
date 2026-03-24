@@ -72,7 +72,7 @@ GET /analysis/risk
 
 ---
 
-## 📌 Example Outputs
+## Example Outputs
 
 ### Cashflow
 
