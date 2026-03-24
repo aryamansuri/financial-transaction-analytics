@@ -122,8 +122,6 @@ It demonstrates how financial platforms:
 	•	Detect financial risk patterns
 	•	Generate actionable insights from transaction data
 
-Here you go — clean and ready to copy-paste:
-
 ## Running the Project
 
 1. Clone the repository
